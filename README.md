@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Mauricio Ribotta
 
-Soy estudiante de la Tecnicatura en Desarrollo de Software en Quality ISAD(Cordoba,Argentina)con el 80% de la carrera aprobada. Estoy emocionado por iniciar mi carrera en el desarrollo de software y aplicar mis conocimientos para construir soluciones innovadoras.
+Soy Egresado de la Tecnicatura en Desarrollo de Software en Quality ISAD(Cordoba,Argentina)c. Estoy emocionado por iniciar mi carrera en el desarrollo de software y aplicar mis conocimientos para construir soluciones innovadoras.
 
 ---
 
